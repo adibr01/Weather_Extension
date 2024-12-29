@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+}
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+#city {
+  padding: 5px;
+  margin-bottom: 10px;
+  width: 70%;
+}
+
+button {
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#weatherDetails {
+  margin-top: 20px;
+}
+
+#weatherDetails p {
+  margin: 5px 0;
+}
